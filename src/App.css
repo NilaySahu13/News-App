@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+body{
+  background: black;
+  color: gray;
+}
+.row.my-4 .col.md-3 div{
+  background-color:rgb(41, 31, 31);
+}
